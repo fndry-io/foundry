@@ -1,0 +1,39 @@
+[submodule "foundry/core"]
+	path = foundry/core
+	url = https://github.com/fndry-io/foundry-core.git
+[submodule "foundry/system"]
+	path = foundry/system
+	url = https://github.com/fndry-io/foundry-system.git
+[submodule "modules/foundry/boards"]
+    path = modules/foundry/boards
+    url = https://bitbucket.org/fndryio/foundry-boards-module.git
+[submodule "modules/foundry/checklists"]
+    path = modules/foundry/checklists
+    url = https://bitbucket.org/fndryio/foundry-checklists-module.git
+[submodule "modules/foundry/comments"]
+	path = modules/foundry/comments
+	url = https://bitbucket.org/fndryio/foundry-comments-module.git
+[submodule "modules/foundry/vault"]
+	path = modules/foundry/vault
+	url = https://bitbucket.org/fndryio/foundry-vault-module.git
+[submodule "modules/foundry/org-charts"]
+	path = modules/foundry/org-charts
+	url = https://bitbucket.org/fndryio/foundry-org-charts-module.git
+[submodule "modules/makh/org-boards"]
+	path = modules/makh/org-boards
+	url = https://bitbucket.org/fndryio/makh-org-boards.git
+[submodule "modules/makh/statistics"]
+	path = modules/makh/statistics
+	url = https://bitbucket.org/fndryio/makh-statistics.git
+[submodule "modules/foundry/statistics"]
+	path = modules/foundry/statistics
+	url = https://bitbucket.org/fndryio/module-statistics.git
+[submodule "modules/foundry/policies"]
+	path = modules/foundry/policies
+	url = https://bitbucket.org/fndryio/module-policies.git
+[submodule "modules/foundry/organizations"]
+	path = modules/foundry/organizations
+	url = https://bitbucket.org/fndryio/module-organizations.git
+[submodule "modules/foundry/content"]
+	path = modules/foundry/content
+	url = https://bitbucket.org/fndryio/module-content.git
